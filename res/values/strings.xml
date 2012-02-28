@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="hello">Hello World, OorActivity!</string>
+    <string name="app_name">oor</string>
+    <string name="radButton1">I am in a meeting.  I will call you back.</string>
+    <string name="radButton2">I am unable to answer, I will call you back.</string>
+</resources>
