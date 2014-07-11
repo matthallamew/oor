@@ -1,4 +1,4 @@
-This application, Out of Office Responder, is a work in progress and it is probably really crappy, insecure, etc etc. So, USE AT YOUR OWN RISK.
+This application, Out of Office Responder, is a work in progress and it possibly insecure and non-functional So, USE AT YOUR OWN RISK.  It is more of a test/play around with Android app right now.
 I wanted an application that would automatically send text messages to someone who calls or texts me when I am in a meeting or unavailable.
 I wanted to make this application into a widget so it could be right on the homescreen and I may eventually do so.
 
